@@ -1,1 +1,1 @@
-# next-yt
+# crypto app
